@@ -1,0 +1,81 @@
+/*estilos al body*/
+body{background-color: rgb(0, 0, 0);}
+
+p{ font-family: "Anek Devanagari", sans-serif;
+    font-size: 22px;
+    color: beige;
+}
+h1{
+    color: rgb(255, 25, 167);
+  font-family: "Matemasie", sans-serif;
+  font-size: 92px;  
+}
+.img1{
+    width: 430px;
+    height: 400px; 
+    border-color: rgb(0, 174, 255);
+    border-style: double  
+}
+div{
+    display: flex;
+    justify-content: center;
+}
+.img2{
+    width: 50px;
+    height: 50px
+   } 
+.img3{
+    width: 50px;
+    height: 50px
+   }
+
+h2{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 22px;
+        color: rgb(226, 43, 195);
+    }
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+    color: rgb(181, 103, 255);
+}    
+a{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    color: aqua;
+}    
+ol{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: azure;
+    font-size: 22px;
+
+}
+ul{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: azure;
+    font-size: 22px ;
+}
+div1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: azure;
+    font-size: 22px;
+}
+hr{
+background-color: blueviolet;
+height: 5px;
+}
+
+.img4 {
+    justify-content: center
+    width: 430px;
+    height: 400px; 
+    border-color: rgb(0, 174, 255);
+    border-style: double  
+}
+
+
+
+
+
+
+
